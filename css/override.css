@@ -1,9 +1,9 @@
-body {
+html, body, .site-header, .site-footer, .page-content, .wrapper, .footer-col-wrapper, header, footer, main, article {
   background-color: red !important;
-  color: white !important;
+  background: red !important;
 }
 
-h1, h2, h3, h4, h5, h6, a, p, span, div, li, .site-title, .site-nav {
+* {
   color: white !important;
 }
 
