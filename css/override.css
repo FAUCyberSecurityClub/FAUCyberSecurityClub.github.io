@@ -1,6 +1,6 @@
 html, body, .site-header, .site-footer, .page-content, .wrapper, .footer-col-wrapper, header, footer, main, article {
-  background-color: red !important;
-  background: red !important;
+  background-color: blue !important;
+  background: blue !important;
 }
 
 * {
